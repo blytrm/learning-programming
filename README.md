@@ -1,2 +1,2 @@
 # learning-programming
-Code and scripts for my programming proggression
+Code and scripts for my coding & programming progression
